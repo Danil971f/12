@@ -11,3 +11,6 @@ result = 2+3*4
 print(result)
 result = (2+3)*4
 print(result)
+print('Привет, мир!')
+print("Привет, мир!")
+print("""Привет, мир!""")
