@@ -34,3 +34,4 @@ c = first_number + second_number
 d = first_number * second_number
 print('Сумма:', c)
 print('Произведение:', d)
+print((3+(5*2)-(6/3)))
